@@ -59,7 +59,7 @@ and can be set to specifically affect the width (X-axis) or height (Y-axis). */
 
 
 .box:hover .scaleX{
-  transform: scaleX(2);
+  transform: scaleX(1.1);
 }
 
 .scaleY{
